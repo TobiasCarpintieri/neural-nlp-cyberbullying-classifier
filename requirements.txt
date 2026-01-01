@@ -9,3 +9,5 @@ plotly
 keras
 
 pickle-mixin
+
+scikit-learn
